@@ -44,7 +44,7 @@ export { App };
 import { App } from 'ruta/006.jsx';
 
 
-//RENDERIZANDO UN COMPONETE POR CADAD ELLEMNTO DE UN ARRAY
+//RENDERIZANDO UN COMPONETE POR CADA ELEMENTO DE UN ARRAY
 const platos=[
     {id:1, name:"plato 1"},
     {id:2, name:"plato 2"},
