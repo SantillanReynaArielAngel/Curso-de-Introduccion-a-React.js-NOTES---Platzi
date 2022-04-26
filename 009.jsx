@@ -10,7 +10,7 @@ const [searchValue, setSearchValue] = React.useState('');
 const onSearchValueChange = (event) => {
   setSearchValue(event.target.value);
 };
-//*El input recupera el valor del estado en el atrubuto "value", este es visible del lado del navegador en tiempo real:
+//*El input recupera el valor del estado en la propiedad "value", este es visible del lado del navegador en tiempo real:
 <input value={searchValue} onChange={onSearchValueChange} />;
 //*La etiqueta p recupera y muestra el valor del estado en tiempo real:
 <p>{searchValue}</p>;
