@@ -1,6 +1,6 @@
 // 014 Custom Hook para Local Storage.mp4
 
-// *Haremos los ejemplos de la documentacion de react
+// *Haremos los ejemplos de la documentacion de react: https://es.reactjs.org/docs/hooks-custom.html
 // *Construir tus propios Hooks te permite extraer la lógica del componente en funciones reutilizables.
 // *Un Hook personalizado es una función de JavaScript cuyo nombre comienza con ”use”(para que react lo reconosca) y que puede llamar a otros Hooks.
 
