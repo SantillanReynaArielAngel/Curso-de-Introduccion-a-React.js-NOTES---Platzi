@@ -20,3 +20,5 @@ updateCount = () => {
   this.setState((prevstate) => ({ count: prevstate.count + 1 }));
 };
 //prevState(recupera el estado actual) garantiza que cada setState inicie y culmine antes de pasar al siguiente.
+
+//REPOSITORIO DEL CURSO: https://github.com/platzi/curso-intro-react
